@@ -1,22 +1,28 @@
-## Hi, I'm Michal!
-I'm Computer Science Student at PJATK fascinated by AI research and implementing physics into python.  
-Currently looking forward into MOJOlang development!
+# Hi, I'm Michal!
+
+I'm a Computer Science student at PJATK, passionate about AI research and implementing physics into Python. Currently, I am particularly interested in MOJOlang development!
 
 ---
 
 ## Skills
-// Python {Numpy, Pandas, Matplotlib, Jupyter, sci-kit, pymunk, pygame}  
-// Java {object programming, GUI}  
-// Microsoft Azure  
-// Bash  
+
+- Programming Languages: Python, Java
+- Machine Learning: TensorFlow, Keras, scikit-learn
+- Data Analysis: Pandas, NumPy, Matplotlib, Jupyter
+- Physics Simulation: Pygame, Pymunk
+- Version Control: Git, GitHub
 
 ---
 
 ## Projects
-// Basic subatomic particles simulation  
-A very simple Python project made in PyGame and Pymunk that aims to simulate the behavior of basic subatomic particles by focusing on modeling the interactions and movements of particles with an option to modify gravitational and electrostatic constants. Implemented some of physics required for more realistic output, such as Boltzmann distribution.
+
+### Basic Subatomic Particles Simulation
+
+A Python project developed using Pygame and Pymunk libraries. It aims to simulate the behavior of basic subatomic particles, focusing on modeling their interactions and movements. The simulation provides the ability to modify gravitational and electrostatic constants, and I have incorporated physics principles like the Boltzmann distribution to create a more realistic output.
 
 ---
 
-## Contact me
-slonowskimichal@gmail.com
+## Contact Me
+
+- Email: slonowskimichal@gmail.com
+- LinkedIn: [Michal Slonowski](https://www.linkedin.com/in/michalslonowski/)
